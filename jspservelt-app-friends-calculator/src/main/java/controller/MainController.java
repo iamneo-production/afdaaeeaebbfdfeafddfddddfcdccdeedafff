@@ -69,7 +69,6 @@ public static int calculate(String myName, String friendName) {
 	}
 
 	FRIENDS = (f1 + f2) % 100;
-	return FRIENDS;
+	return FRIENDS;	
 }
-	
 }
